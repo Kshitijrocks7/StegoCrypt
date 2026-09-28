@@ -21,11 +21,14 @@ The project allows users to encrypt text using classical encryption algorithms, 
 - Dual-layer security using encryption + steganography
 
 ---
+
 ## Screenshots
 
-### Application Interface
+### StegoCrypt User Interface
 
-![StegoCrypt Interface](assets/screenshots/StegoCrypt UI.png)
+![StegoCrypt UI](assets/screenshots/StegoCrypt%20UI.png)
+
+
 ## Workflow
 
 ```text
